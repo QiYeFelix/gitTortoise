@@ -1,0 +1,3 @@
+[2025-04-24 14:33:54.766] - 43152 信息 [restartedMain] --- org.apache.catalina.core.StandardService: Starting service [Tomcat]
+[2025-04-24 14:33:54.770] - 43152 信息 [restartedMain] --- org.apache.catalina.core.StandardEngine: Starting Servlet engine: [Apache Tomcat/10.1.39]
+[2025-04-24 14:33:54.799] - 43152 信息 [restartedMain] --- org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]: Initializing Spring embedded WebApplicationContext
